@@ -19,3 +19,5 @@ https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-americ
 https://deloit.infogram.com/2020-the-international-year-of-plant-health-infographic-1h7k2358jykg6xr
 
 https://www.juiceanalytics.com/writing/the-ultimate-collection-of-data-storytelling-resources  == IMP
+
+http://graphics.reuters.com/FINANCIAL-CRISIS2008/0100805F0BK/index.html == imp
