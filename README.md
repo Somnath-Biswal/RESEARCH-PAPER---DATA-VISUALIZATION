@@ -8,7 +8,7 @@ https://fivethirtyeight.com/features/which-2020-candidates-have-the-most-in-comm
 
 https://www.chris-williams.me/fry-universe
 
-https://www.gatesfoundation.org/goalkeepers/report/2019-report//#ExaminingInequality
+https://www.gatesfoundation.org/goalkeepers/report/2019-report//#ExaminingInequality  == IMP
 
 https://medium.com/@anmolmalviya/google-data-analytics-professional-certificate-capstone-project-c4639a200aa4
 
@@ -18,3 +18,4 @@ https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-americ
 
 https://deloit.infogram.com/2020-the-international-year-of-plant-health-infographic-1h7k2358jykg6xr
 
+https://www.juiceanalytics.com/writing/the-ultimate-collection-of-data-storytelling-resources  == IMP
