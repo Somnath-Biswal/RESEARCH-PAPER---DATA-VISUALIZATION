@@ -12,3 +12,8 @@ https://www.gatesfoundation.org/goalkeepers/report/2019-report//#ExaminingInequa
 
 https://medium.com/@anmolmalviya/google-data-analytics-professional-certificate-capstone-project-c4639a200aa4
 
+https://flowingdata.com/2021/06/08/seeing-how-much-we-ate-over-the-years/
+
+https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study
+
+
